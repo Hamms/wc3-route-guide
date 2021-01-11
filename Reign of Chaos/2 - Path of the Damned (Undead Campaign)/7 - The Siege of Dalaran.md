@@ -8,4 +8,4 @@ Destroy the gate then the first Archmage with your army, then have Arthas and Ke
 
 ## Preparation
 
-To survive, Arthas will likely need to be carrying a Potion of Greater Healing. If your game is not already in this state, you can simply load [this save file](https://github.com/Hamms/wc3-route-guide/raw/master/Reign%20of%20Chaos/Undead/7a%20-%20end%20of%20chapter%20six.w3z) from near the end of Chapter Six.
+To survive, Arthas will likely need to be carrying a Potion of Greater Healing. If your game is not already in this state, you can simply load [this save file](https://github.com/Hamms/wc3-route-guide/raw/master/Reign%20of%20Chaos/2%20-%20Path%20of%20the%20Damned%20%28Undead%20Campaign%29/7a%20-%20end%20of%20chapter%20six.w3z) from near the end of Chapter Six.
