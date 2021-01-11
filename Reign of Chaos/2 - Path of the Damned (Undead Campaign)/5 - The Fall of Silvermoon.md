@@ -4,7 +4,13 @@ Build up about a control group full of Crypt Fiends, add in the free Gargoyles f
 
 ## Overview
 
-Make sure you immediately begin summoning a second Crypt for building your Fiends. You'll also want to unsummon your Altar of Darkness and begin summoning a Ziggurat. Fend off Sylvanas' attack from the north; target her, then head west. Take out the troll camp across the bridge to get a mana potion and kill time while waiting for the Silvermoon Runners quest to start. Kill the runner, take the Gargoyles, and head south. Mass your troops in a staging area north of the Sunwell, by the pool. Pull one (or two? Not clear what's the ideal goal here) of the four Granite Golems comprising the Sunwell guardians, then once they're dead proceed into the Sunwell and kill the rest.
+Make sure you immediately begin by building a Fiend and summoning a second Crypt for building more. You'll also want to unsummon your Altar of Darkness and begin summoning a Ziggurat. Fend off Sylvanas' attack from the north, then research Creature Attack and start building Crypt Fiends. While we amass our attack force, move your army west. Take out the troll camp across the bridge to get some gold and a mana potion, and to kill time while waiting for the Silvermoon Runners quest to start. Kill the runner, take the Gargoyles, and head south. Take out the elves in the area just across the bridge, then take on the four Granite Golems which comprise the Sunwell guardians. Pick off the first two by pulling them one at a time out of the range of the towers, then rush in and kill the last two right by the Sunwell itself.
+
+## Notes
+
+You again want to use Skeleton Warriors to help with survival in Sylvanas' initial attack; see "Targeting Order" in the last mission.
+
+The guardian Golems will priority target Gargoyles, so you can use them in the final battle to tank damage for the Crypt Fiends.
 
 ## Questions
 
