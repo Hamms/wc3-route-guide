@@ -1,4 +1,4 @@
-# Reign of Chaos: Undead Campaign
+# Reign of Chaos: Path of the Damned
 
 ## blasterpoard's overview
 
