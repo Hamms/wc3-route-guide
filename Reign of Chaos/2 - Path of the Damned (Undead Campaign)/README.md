@@ -1,5 +1,9 @@
 # Reign of Chaos: Path of the Damned
 
+## Video Overview
+
+[This SGDQ submission video](https://www.youtube.com/watch?v=R7nSDl3vnfs) for the RoC Undead Campaign is a fantastic resource; the primary goal of the video is to demonstrate to GDQ staff what it might look like to feature this route in an event, but that means the video includes a lot of explanation not just of the route, but of individual strats and techniques and even some explanatory context. _Great_ information for a first-time runner, and the primary resource on which this guide was originally based. Credit to CovertMuffin for making such a useful reference without even intending to.
+
 ## blasterpoard's overview
 
 - **UD1** is easy; look at blasterpoard's' campaign WR
@@ -13,4 +17,3 @@
 ## misc notes
 
 - any patch is ok for running UD; even 1.32 (current) loses very little time compared to the other campaigns
-- CovertMuffin made [a SGDQ submission video](https://www.youtube.com/watch?v=R7nSDl3vnfs) for the RoC Undead Campaign, and it includes some good high-level overview information for each level
