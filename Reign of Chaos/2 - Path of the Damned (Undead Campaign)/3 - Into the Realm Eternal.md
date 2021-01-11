@@ -1,8 +1,8 @@
 # Into the Realm Eternal
 
-## Overview
-
 With just the given starting units, use a Scroll of Town Portal to skip directly into the enemy base and destroy it.
+
+## Overview
 
 Take all of your forces south to the rune-marked copse and destroy the wall of trees with your Meat Wagons. This will aggro Sylvanas; kill her. During the fight, begin summoning a Necropolis in the clearing beyond the wall of trees (to tank a scripted attack later). Destroy more trees to reveal the Goblin Merchant and the elven forces guarding it, then yet more trees to reveal the Gnoll camp. Clear the camp (destroying the boxes with your Meat Wagons), and build a second Necropolis in the southeast corner.
 

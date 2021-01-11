@@ -1,8 +1,8 @@
 # The Seige of Dalaran
 
-## Overview
-
 Run Arthas and Kel'Thuzad directly to and then kill Antonidas.
+
+## Overview
 
 Arthas is needed to actually kill Antonidas, Kel'Thuzad is there protect Arthas directly with Frost Armor and indirectly by making sure that he's the one to take tower damage.
 

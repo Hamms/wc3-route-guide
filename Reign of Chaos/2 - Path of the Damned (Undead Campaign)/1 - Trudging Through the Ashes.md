@@ -1,8 +1,8 @@
 # Trudging Through the Ashes
 
-## Overview
-
 Run Arthas through the level, collecting 20 Acolytes by moving him close enough to the "Acolyte in Hiding" red-shaded villagers to trigger their transformation.
+
+## Overview
 
 ![acolyte order](https://github.com/Hamms/wc3-route-guide/raw/master/Reign%20of%20Chaos/Undead/1a%20-%20acolyte%20order.png)
 

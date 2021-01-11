@@ -1,5 +1,7 @@
 # Key of the Three Moons
 
+Use the starting forces plus the two free Zeppelins and some mercenary Goblin Sappers to target down the three Altars of Kings, and use a Necropolis plus a Scroll of Town Portal to run directly to the elfgate.
+
 ## Overview
 
 Take your forces east to the Goblin Merchant and load them into the Zeppelins. Specifically:

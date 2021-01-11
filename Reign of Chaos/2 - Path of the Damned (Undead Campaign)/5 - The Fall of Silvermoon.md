@@ -1,8 +1,8 @@
 # The Fall of Silvermoon
 
-## Overview
-
 Build up about a control group full of Crypt Fiends, add in the free Gargoyles from the Silvermoon Runners optional quest, and take them all directly to the Sunwell.
+
+## Overview
 
 Make sure you immediately begin summoning a second Crypt for building your Fiends. You'll also want to unsummon your Altar of Darkness and begin summoning a Ziggurat. Fend off Sylvanas' attack from the north; target her, then head west. Take out the troll camp across the bridge to get a mana potion and kill time while waiting for the Silvermoon Runners quest to start. Kill the runner, take the Gargoyles, and head south. Mass your troops in a staging area north of the Sunwell, by the pool. Pull one (or two? Not clear what's the ideal goal here) of the four Granite Golems comprising the Sunwell guardians, then once they're dead proceed into the Sunwell and kill the rest.
 
