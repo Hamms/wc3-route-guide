@@ -25,6 +25,4 @@ Take Arthas to the Mercenary Camp in the southeast and buy two Goblin Sappers. U
 
 **Targeting Order** Necromancers have a high targeting order, so when attacking the Altar of Kings you want to send out Arthas and the Ghouls first. Once they've killed at least one elf, unload the Necromancers and immediately Raise Dead. The Necromancers will pull focus as soon as they unload, but the Skeleton Warriers are even higher on the targeting order; once summoned they will in turn pull focus from the Necromancers.
 
-## Questions
-
-**Scroll of Town Portal** When do we obtain this?
+**Scroll of Town Portal** can be purchased in the previous mission.
