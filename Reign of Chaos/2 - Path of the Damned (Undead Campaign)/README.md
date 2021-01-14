@@ -11,7 +11,9 @@
 
 ## Video Overview
 
-[This SGDQ submission video](https://www.youtube.com/watch?v=R7nSDl3vnfs) for the RoC Undead Campaign is a fantastic resource; the primary goal of the video is to demonstrate to GDQ staff what it might look like to feature this route in an event, but that means the video includes a lot of explanation not just of the route, but of individual strats and techniques and even some explanatory context. _Great_ information for a first-time runner, and the primary resource on which this guide was originally based. Credit to CovertMuffin for making such a useful reference without even intending to.
+[This Games Done Quick submission video](https://www.youtube.com/watch?v=R7nSDl3vnfs) for the RoC Undead Campaign is a fantastic resource; the primary goal of the video is to demonstrate to GDQ staff what it might look like to feature this route in an event, but that means the video includes a lot of explanation not just of the route, but of individual strats and techniques and even some explanatory context. _Great_ information for a first-time runner, and the primary resource on which this guide was originally based. Credit to CovertMuffin for making such a useful reference without even intending to.
+
+[This video of the resulting run at SGDQ 2018](https://www.youtube.com/watch?v=LhISmAF6ASw) is also useful. The same basic information as above; somewhat less detail, and much more spectacle :)
 
 ## blasterpoard's overview
 

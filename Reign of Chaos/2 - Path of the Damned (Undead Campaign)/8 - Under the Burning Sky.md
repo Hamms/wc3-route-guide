@@ -10,7 +10,7 @@ At about 20 minutes remaining, a second attack will arrive from the west. Fight 
 
 ## Notes
 
-Kill the ghost to free up pop
+Kill the Shade to free up population
 
 Get Web for gryphons
 
