@@ -14,4 +14,7 @@ Make sure to kill the human Captain of the Town Guard (marked as `⚔` between A
 
 ## Notes
 
-There are a few extra Acolytes, marked as `+` on the map
+- There are a few extra Acolytes, marked as `+` on the map
+- Some potions can be collected on this mission to aid in future missions:
+    - Two crates along the main route (marked as `⚗️` on the map) each drop a potion when broken
+    - One enemy in each of the two fights marked as `⚔` on the map drops a potion when killed
